@@ -3,6 +3,8 @@ line version spinoff of Monoply.
 
 To build the game, run 'make' in the src directory.
 
+After building successfully. Run the binary bb7k from the command line.
+
 More information about this game can be found in bb7k.pdf.
 
 List of Commands:
